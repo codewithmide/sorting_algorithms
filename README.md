@@ -1,4 +1,4 @@
-# Holberton School - Sorting Algorithms
+# C - Sorting Algorithms
 
 ## Resources:books:
 
